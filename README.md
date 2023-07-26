@@ -74,7 +74,7 @@ Contributions to the ATM Simulator System project are welcome. If you find any b
 
 Special thanks to all contributors and developers who have helped build and improve the ATM Simulator System.
 
-<!-- ## Contributors
+ ## Contributors
 <table>
 <tr>
     <td align="center">
@@ -99,5 +99,5 @@ Special thanks to all contributors and developers who have helped build and impr
         </a>
     </td></tr>
 </table>
-readme: contributors -end -->
+<!-- readme: contributors -end -->
 
