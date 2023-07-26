@@ -12,7 +12,7 @@ The ATM Simulator System offers the following features:
 4. Fast Cash: Provides predefined amounts for quick withdrawals.
 5. Mini Statement: Displays a mini statement of recent transactions.
 6. PIN Management: Allows users to change their PIN for added security.
-7. Signup: New users can create an account by signing up.
+7. Signup: New users can create an account by signing up..
 
 ## Requirements
 
